@@ -9,7 +9,7 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
 
 
-#We are hoping that this application will serve its purpose and be contributory in expression and voicing out your thoughts.
+**We are hoping that this application will serve its purpose and be contributory in expression and voicing out your thoughts.**
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 ![app1](https://user-images.githubusercontent.com/98904606/188394031-fb34a671-9de4-45da-b935-fb78d4ee0fdc.png)
